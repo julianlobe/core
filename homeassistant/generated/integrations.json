@@ -77,6 +77,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "aha_waste": {
+      "name": "AHA Waste",
+      "integration_type": "service",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "airly": {
       "name": "Airly",
       "integration_type": "service",

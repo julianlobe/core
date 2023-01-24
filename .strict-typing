@@ -45,6 +45,7 @@ homeassistant.components.acer_projector.*
 homeassistant.components.actiontec.*
 homeassistant.components.adguard.*
 homeassistant.components.aftership.*
+homeassistant.components.aha_waste.*
 homeassistant.components.air_quality.*
 homeassistant.components.airly.*
 homeassistant.components.airvisual.*

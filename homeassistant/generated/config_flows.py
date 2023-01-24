@@ -23,6 +23,7 @@ FLOWS = {
         "advantage_air",
         "aemet",
         "agent_dvr",
+        "aha_waste",
         "airly",
         "airnow",
         "airq",
